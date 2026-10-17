@@ -1,0 +1,5 @@
+{
+    "ROC_AUC": 0.6755,
+    "Gini_Coefficient": 0.3509,
+    "KS_Statistic": 0.2854
+}

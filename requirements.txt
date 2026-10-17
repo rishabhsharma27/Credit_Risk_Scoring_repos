@@ -18,3 +18,5 @@ shap>=0.42.0
 streamlit>=1.28.0
 fastapi>=0.100.0
 uvicorn>=0.22.0
+
+scorecardpy>=0.1.9.7
